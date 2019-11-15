@@ -14,7 +14,7 @@ You will also see any lint errors in the console.
 
 ### Deployment
 
-![Manager View - View Inventory](./img/CG.PNG)
+![Manager View - View Inventory](./react-clicky-game/img/CG.PNG)
 
 
 ### `yarn test`
